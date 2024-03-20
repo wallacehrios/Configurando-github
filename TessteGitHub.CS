@@ -42,3 +42,4 @@ public class MovimentoPersonagem : MonoBehaviour
         controller.Move(playerVelocity * Time.deltaTime);
     }
 }
+//apenas uma escrita para testar os updates do git
